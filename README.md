@@ -1,4 +1,4 @@
-# Time-Series-Forecasting-Using-Pycaret
+# Multivariate Time-Series-Forecasting
 ## Overview
 Predicted value of variable (target) for next 6 quarters using Pycaret package
 
